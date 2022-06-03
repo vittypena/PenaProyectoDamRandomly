@@ -1,0 +1,12 @@
+Los ejecutables presentan algunos bug que tengo que fixear (en concreto dos) si mueres justo despues de cambiar de escena, la segunda vez el objeto de
+permitirte cargar el nivel de nuevo se bugea y hay que salir y volver a entrar y a veces el heroe pasa del estado de no destruirse entre pantallas a destruirse, el más estable es el de windows.
+
+Aclarar que se debe a un problema de ultima hora con la version de Unity ya que tengo el proyecto hecho en una anterior y lo han actualizado. 
+
+Por lo tanto justo lo de el singlenton del heroe tengo que fixearlo porque segun la docu ha cmabiado la forma de hacerse. 
+
+El de android según el movil he de añadir los controles para que pueda moverse el personaje.
+
+Tengo identificado el error e intentare fixearlo este finde semana, adaptando el singlenton a la nueva forma.
+
+https://drive.google.com/drive/folders/1DOJcJL9bcN0AZUojGMClukcZ0AFuyUvr

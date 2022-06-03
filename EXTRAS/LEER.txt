@@ -1,0 +1,2 @@
+Adjunto la aplicacion web ya que esta al 90% realizada. La adjunto como prueba, por si la completo para enseñarla al menos en la presentación, la api esta en su totalidad y quedan 2 cosillas en el front.
+Pero para no ensuciar la parte de Unity que esta bastante completa he decidido no meter la documentación deprisa y corriendo de la web, pero por el tema de que igual la nombro en la presentación la subo como prueba de que estaba casi completa.
